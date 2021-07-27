@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 16
+Implementation-Title: calculator
+Implementation-Version: 0.0.1-SNAPSHOT
+Main-Class: com.shifts.calculator.App
+Created-By: Maven Integration for Eclipse
+

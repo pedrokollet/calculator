@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: com.shifts.calculator.CalculatorServicesTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.077 sec <<< FAILURE! - in com.shifts.calculator.CalculatorServicesTest
+splitStringV1Test(com.shifts.calculator.CalculatorServicesTest)  Time elapsed: 0.007 sec  <<< ERROR!
+java.lang.Error: Unresolved compilation problem: 
+	SpringBootTest cannot be resolved to a type
+
+	at com.shifts.calculator.CalculatorServicesTest.<init>(CalculatorServicesTest.java:13)
+
